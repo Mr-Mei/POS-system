@@ -43,4 +43,4 @@
 
 >1.项目数据使用easyMock模拟，由于easyMock官网经常打不开，我这里用我本地搭建的easyMock接口，模拟的数据已保存在public/mock/data.json文件；
 >2.项目中仍有许多需要完善之处，本人能力有限，不足之处望多多包涵！！！欢迎大神下载项目，并进行二次开发。
-（项目地址：http:）
+（项目地址：https://github.com/Mr-Mei/POS-system）

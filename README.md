@@ -2,7 +2,7 @@
 
 ## 项目效果图
 
-![image]()
+![image](https://github.com/Mr-Mei/POS-system/blob/master/public/project.gif)
 
 ## 项目分析
 
